@@ -24,7 +24,7 @@ https://cvilleschools.onshape.com/documents/fc3a9d06629276e022e9e563/w/c57c371bc
 
 ### Image
 
-<img src="https://github.com/Olindsa32/BasicCAD/blob/master/CasterProject/Images/CasterBase.png?raw=true" alt "The Base" width="180">
+<img src="images/CasterBase.png" alt "The Base" width="180">
 
 ### Reflection
 
