@@ -24,9 +24,7 @@ https://cvilleschools.onshape.com/documents/fc3a9d06629276e022e9e563/w/c57c371bc
 
 ### Image
 
-<img src="images/Base.jpg" alt="The Base" width="200">
-![Base of Caster](https://github.com/Olindsa32/BasicCAD/blob/master/CasterProject/Images/CasterBase.png?raw=true)
-<img src="https://github.com/Olindsa32/BasicCAD/blob/master/CasterProject/Images/CasterBase.png?raw=true" alt "The Base" width="150">
+<img src="https://github.com/Olindsa32/BasicCAD/blob/master/CasterProject/Images/CasterBase.png?raw=true" alt "The Base" width="180">
 
 ### Reflection
 
@@ -98,18 +96,3 @@ This assignment was easy and my solidworks knowledge made the slight changes to 
 ### Reflection
 
 ---
-
-
-
-## ASSIGNMENT
-
-# The assignment was to create the base of the caster project.
-
-
-## Picture
-
-![Base of Caster](https://github.com/Olindsa32/BasicCAD/blob/master/CasterProject/Images/CasterBase.png?raw=true)
-
-
-## Reflection
-# This assignment was very easy and quick.
