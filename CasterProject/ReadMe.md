@@ -101,11 +101,19 @@ This one was very easy for me and definitely easier than the wheel.
 
 ### Description
 
+The Wheel is a revolution that gets lotss of holes cut in the middle and sides ti have it resemble a wheel
+
 ### Evidence
+
+https://cvilleschools.onshape.com/documents/fc3a9d06629276e022e9e563/w/c57c371bcaf7ec4a64d9e043/e/1491b92841ee2fa70b5db4dd
 
 ### Image
 
+![Image of Wheel](https://github.com/Olindsa32/BasicCAD/blob/master/CasterProject/Images/CasterWheel.png?raw=true)
+
 ### Reflection
+
+This project was a bit more of a challenge because you needed to start it the same way as the tire but then make cuts on it and fillets on the cuts.
 
 ---
 
@@ -114,10 +122,19 @@ This one was very easy for me and definitely easier than the wheel.
 
 ### Description
 
+This assingment did not provide much of an issue because it was just 3 simple pieces that later needed to be mated together instead of a big complex piece
+
 ### Evidence
+
+https://cvilleschools.onshape.com/documents/fc3a9d06629276e022e9e563/w/c57c371bcaf7ec4a64d9e043/e/1491b92841ee2fa70b5db4dd
 
 ### Image
 
+![Image of Axle and Collar](https://github.com/Olindsa32/BasicCAD/blob/master/CasterProject/Images/CasterAxleCollar.png?raw=true)
+![Image of Bearing](https://github.com/Olindsa32/BasicCAD/blob/master/CasterProject/Images/CasterBearing.png?raw=true)
+
 ### Reflection
+
+Finishing this felt good because in total this caster project had been very fun.
 
 ---
