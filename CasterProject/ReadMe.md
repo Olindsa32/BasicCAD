@@ -11,6 +11,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [SubAssembly](#SubAssembly)
 
 ## Base
 
@@ -138,3 +139,22 @@ https://cvilleschools.onshape.com/documents/fc3a9d06629276e022e9e563/w/c57c371bc
 Finishing this felt good because in total this caster project had been very fun.
 
 ---
+
+
+## SubAssmebly
+
+### Description
+
+This assingment is just putting together the wheel tire and a bearing to build the whole wheel shape. The reason for this is to unclutter your full assembly and make everything else more simple.
+
+### Evidence
+
+https://cvilleschools.onshape.com/documents/fc3a9d06629276e022e9e563/w/c57c371bcaf7ec4a64d9e043/e/1491b92841ee2fa70b5db4dd
+
+### Image
+
+![Image of SubAssembly](https://github.com/Olindsa32/BasicCAD/blob/master/CasterProject/Images/CasterSubAssembly.png?raw=true)
+
+### Reflection
+
+This was my first time using mates and it went very wheel because mates are extremely easy in onshape.
