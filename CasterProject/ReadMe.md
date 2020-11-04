@@ -29,8 +29,8 @@ https://cvilleschools.onshape.com/documents/fc3a9d06629276e022e9e563/w/c57c371bc
 
 ### Reflection
 
-This assignment was easy and my solidworks knowledge made the slight changes to onshape a breeze.
-
+This assignment provided no problem. The assignment talked about doing a linear pattern after creating one circle and that works well. I did the one going 3 wide first and just spaced them manually by 80. Then I did the one by 2 to flip it to the other side. That was the most difficult part of the assignment.
+ 
 ---
 
 
@@ -38,7 +38,7 @@ This assignment was easy and my solidworks knowledge made the slight changes to 
 
 ### Description
 
-The mount is a piece that goes on top of the base and matches up with the holes from one side of the base.
+The mount is a piece that goes on top of the base and matches up with the holes from one side of the base. It is a perfect square centered around the large hole from the base.
 
 ### Evidence
 
@@ -50,7 +50,7 @@ https://cvilleschools.onshape.com/documents/fc3a9d06629276e022e9e563/w/c57c371bc
 
 ### Reflection
 
-Again this one was easy because it was essentially making 2/3rds of the base again.
+This one was just as easy as the base maybe easier. Instead of doing a linear sketch pattern like I did on the base since it was a square I could instead do a circular sketch pattern which only took putting 4 on the amount and choosing the center of the square for the rotation point.
 
 ---
 
